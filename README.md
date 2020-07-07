@@ -3,8 +3,7 @@ pythonProjects
 
 A collection of small python projects
 
-This repository is simply a place for me to store small programs so that I can receive advice from more experienced programmers 
-as to how I can improve my code!
+This repository is simply a place for me to store small programs I've written over the years and share with the community.
 
 ***DESCRIPTION OF GAME OF LIFE***
 
